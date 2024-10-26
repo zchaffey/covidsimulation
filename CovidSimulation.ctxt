@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CovidSimulation
+comment1.params=
+comment1.target=CovidSimulation()
+comment2.params=
+comment2.target=void\ setinitialvalues()
+comment3.params=
+comment3.target=void\ makepeople()
+comment4.params=
+comment4.target=void\ runSim()
+comment5.params=
+comment5.target=void\ UpdateRecoveredDead()
+comment6.params=
+comment6.target=void\ UpdateLabels()
+comment7.params=event
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=8

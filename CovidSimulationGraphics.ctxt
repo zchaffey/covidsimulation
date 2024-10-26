@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CovidSimulationGraphics
+comment1.params=recovered\ alive\ startsim\ endsim\ people\ gb\ nr\ ni\ nh\ nd
+comment1.target=CovidSimulationGraphics(boolean,\ boolean,\ boolean,\ boolean,\ java.util.ArrayList,\ GameBorder,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=nr\ ni\ nd\ nh
+comment2.target=void\ UpdateStrings(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=g
+comment3.target=void\ paint(java.awt.Graphics)
+numComments=4
